@@ -1,0 +1,28 @@
+body{
+    background-color: silver;
+} 
+ 
+h1{
+    color: rgb(255, 255, 255);
+    width: 600px;
+    font-size: 36px;
+}
+
+p{
+    color: white;
+}
+
+#paragraph1{
+    color: black;
+}
+
+.text-center{
+    text-align: justify;
+}
+
+.button{
+    background-color: black;
+    padding: 10px 20px;
+    border-radius: 4px;
+    color: white;
+}
